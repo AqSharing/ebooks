@@ -1,4 +1,5 @@
 # Good Ebooks for IT can be found right here !
+>> Author: Zwe Yan Naing / Aquilus Norman
 
 ## Best Free Computing Ebooks Websites
 - [All IT Books](https://allitbooks.net/)
