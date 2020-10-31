@@ -9,3 +9,5 @@
 - [Free Book Centre](http://www.freebookcentre.net/) Other books available too
 - [PDF Drive](https://www.pdfdrive.com/computer-books.html)
 - [GoalKicker Programming Notes](https://books.goalkicker.com/)
+- [Free Computer Ebooks](https://freepdf-books.com/tag/free-computer-ebooks/)
+- [Ebook Foundation](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) <ins>Github Link</ins>
